@@ -1,4 +1,4 @@
-MAKE SURE YOU HAVE OLLAMA UP AND RUNNING, LM STUDIO ALSO WORKS. RUN WEBINTERFACE 7 IF THAT'S THE CASE
+MAKE SURE YOU HAVE OLLAMA UP AND RUNNING, LM STUDIO ALSO WORKS. RUN WEBINTERFACE 6 IF THAT'S THE CASE
 REPLACE THE VARIABLES IN THE PYTHON AND PAGE FILES AS REQUIRED
 MAKE SURE YOU HAVE NPM SET UP AND WORKING
 
@@ -6,12 +6,12 @@ RUN ALL THIS:
 
 
 For the frontend:
-npm install @heroicons/react
-npm install next react react-dom
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-cd frontend
-npm run dev
+npm install @heroicons/react \n
+npm install next react react-dom \n
+npm install -D tailwindcss postcss autoprefixer \n
+npx tailwindcss init -p \n
+cd frontend \n 
+npm run dev \n
 
 
 For the backend:
