@@ -6,12 +6,12 @@ RUN ALL THIS:
 
 
 For the frontend:
-npm install @heroicons/react \n
-npm install next react react-dom \n
-npm install -D tailwindcss postcss autoprefixer \n
-npx tailwindcss init -p \n
-cd frontend \n 
-npm run dev \n
+npm install @heroicons/react 
+npm install next react react-dom 
+npm install -D tailwindcss postcss autoprefixer 
+npx tailwindcss init -p 
+cd frontend 
+npm run dev 
 
 
 For the backend:
