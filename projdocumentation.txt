@@ -1,0 +1,37 @@
+﻿
+All technologies used here are open source, formatted as NAME(documentation link)
+Tech Stack Utilized:
+-Python(https://www.python.org/about/)
+-Ollama(https://github.com/ollama/ollama)
+-Mistral LLM models(https://github.com/mistralai)
+-TailwindCSS(https://github.com/tailwindlabs/tailwindcss)
+-React.js (https://github.com/facebook/react)
+-HTML 
+-Python libraries such as Flask, Requests, Holidays, MySQL etc
+-MySQL (https://github.com/mysql/mysql-server)
+
+
+The frontend components and MySQL are not final and can be changed if needed. 
+
+
+Hardware Requirements:
+
+MINIMUM:
+Requires a 64-bit processor and operating system
+OS: Any
+Processor: Intel® Core™ i5-10400/ Core™ i5-11400 or AMD Ryzen™ 5 5600
+Memory: 16 GB RAM
+Graphics: Integrated Graphics
+
+
+RECOMMENDED:
+Requires a 64-bit processor and operating system
+OS: Any	
+Processor: Intel® Core™ i5-10600K / Core™ i7-10700K and Xeon equivalents or AMD Ryzen™ 7 5700x or HEDT alternatives 
+Memory: 32 GB RAM
+Graphics: NVIDIA RTX 3060 or AMD Radeon RX 6600 and server equivalents
+Network: None
+
+
+NOTE: Using AMD GPUs will require ROCm support, which is not available on all AMD GPUs. Please check the ROCm documentation for compatibility.
+Additionally, make sure that vulkan is enabled in LM studio or Ollama config in case you've got a GPU that doesn't have at least 6gb VRAM.

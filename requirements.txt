@@ -1,0 +1,10 @@
+Flask
+flask-cors
+psutil
+requests
+mysql-connector-python
+matplotlib
+pandas
+numpy
+holidays
+
